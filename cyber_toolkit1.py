@@ -198,7 +198,7 @@ while True:
     elif choice == "4": caesar_cipher_tool()
     elif choice == "5": xor_tool()
     elif choice == "0":
-        print(Fore.CYAN + "Exiting. Stay safe out there! ")
+        print(Fore.CYAN + "Exiting. ")
         break
     else:
         print(Fore.RED + "Invalid choice. Please try again.")
